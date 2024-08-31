@@ -1,3 +1,10 @@
+1 git init    
+2 git add .  
+3 git commit -m "first commit"    
+4 git branch -M main  
+5 git remote add origin https://github.com/sohel7/flatter_Batch7_Assignment.git
+6 git push -u origin main
+
 # assignment_on_responsive_design
 
 A new Flutter project.
